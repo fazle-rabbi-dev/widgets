@@ -2,7 +2,7 @@
 # Widget: Countdown Timer (Classic)
 
 # --- Config (edit via set-countdown.sh) ---
-CONFIG="$HOME/yr-progress/countdown/.countdown.conf"
+CONFIG="$HOME/widgets/countdown/.countdown.conf"
 [ -f "$CONFIG" ] && . "$CONFIG"
 TITLE="${TITLE:-Countdown}"
 TARGET="${TARGET:-2027-01-01 00:00:00}"

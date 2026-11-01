@@ -4,7 +4,7 @@
 #   ./set-countdown.sh "New Year" "2027-01-01 00:00:00"
 #   ./set-countdown.sh                      # show current
 
-CONFIG="$HOME/yr-progress/countdown/.countdown.conf"
+CONFIG="$HOME/widgets/countdown/.countdown.conf"
 
 if [ $# -eq 0 ]; then
     if [ -f "$CONFIG" ]; then
