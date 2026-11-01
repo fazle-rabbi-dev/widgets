@@ -4,6 +4,11 @@ A collection of text-based pretty cool widgets for Android, set via the Termux a
 
 ANSI-colored terminal output, rendered directly as home screen widgets. No app store fluff, just pure shell & Node scripts you can read, tweak, and own.
 
+<p align="center">
+  <img src="home.png" width="49%" />
+  <img src="home2.png" width="49%" />
+</p>
+
 ---
 
 ## Features
